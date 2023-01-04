@@ -19,3 +19,9 @@ p{
 
 text-transform: capitalize;   
 }
+
+h3{
+text-align: center;
+color: aqua;
+font-size: 30px;
+}

@@ -5,3 +5,17 @@ font-family: cursive;
 
 
 }
+
+
+h2{
+
+font-size:30px;
+color:crimson;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+p{
+
+text-transform: capitalize;   
+}
